@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85819229679",
+    "firebase_url": "https://sensorbanjir-d40f4.firebaseio.com",
+    "project_id": "sensorbanjir-d40f4",
+    "storage_bucket": "sensorbanjir-d40f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85819229679:android:ae33f0c93574cf8f",
+        "android_client_info": {
+          "package_name": "com.example.sensorbanjir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85819229679-kltjmduv7ofieai58llic3lj3ufouuuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sensorbanjir",
+            "certificate_hash": "59c62d4fc50bb5ce2a4b050a364ded3c582cccc1"
+          }
+        },
+        {
+          "client_id": "85819229679-a74u18el9nacsdhm1ec7ngdfotb9s1c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0AOiXiEeNyxKS1ZguEahPekEVv9slJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85819229679-a74u18el9nacsdhm1ec7ngdfotb9s1c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
